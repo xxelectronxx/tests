@@ -2,6 +2,6 @@
 import test2
 
 if __name__=='__main__':
-    number = input("How many numbers of the Fibinachi Sequence do you want to print?")
+    number = input("which number in the Fibinachi Sequence do you want to print (base-0)?")
     #fibonacci(number)
     test2.fibonacci(number)
